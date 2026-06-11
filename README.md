@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Try HireBot Live →](https://khushirajput123-hirebot-appmain.streamlit.app)**
+🔗 **[Try HireBot Live →](https://khushirajput123-hirebot-appmain-xaulrd.streamlit.app/)**
 
 Upload your resume PDF + paste any job description → get AI-powered analysis in seconds.
 
